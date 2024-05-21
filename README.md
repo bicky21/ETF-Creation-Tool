@@ -25,3 +25,6 @@ The ETF Creation Tool is designed as a set of modular components that work toget
    ```bash
    git clone https://github.com/your-username/etf-creation-tool.git
 
+2. Run
+   ```bash
+   python etf_creation_tool.py
