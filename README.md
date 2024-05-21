@@ -23,7 +23,7 @@ The ETF Creation Tool is designed as a set of modular components that work toget
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/your-username/etf-creation-tool.git
+   git clone https://github.com/bicky21/etf-creation-tool.git
 
 2. Run
    ```bash
